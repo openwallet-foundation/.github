@@ -4,6 +4,8 @@
 
 The mission of the OWF is to develop an open source engine to enable secure and interoperable multi-purpose wallets anyone can use to build solutions.
 
+The OWF aims to set best practices for digital wallet technology through collaboration on open source code for use as a starting point for anyone who strives to build interoperable, secure and privacy-protecting wallets.
+
 Learn more at [openwallet.foundation](https://openwallet.foundation/)
 
 ## Contributing
