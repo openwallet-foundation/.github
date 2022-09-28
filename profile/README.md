@@ -7,7 +7,7 @@ Intro text...
 ## Contributing
 
 ### Mailing List:
- - Join the mailing list at [lists.openwallet.foundation/g/technical-discuss](https://lists.openwallet.foundation/g/technical-discuss/join)
+ - Join the mailing list at [technical-discuss/join](https://lists.openwallet.foundation/g/technical-discuss/join)
  - View previous mailing list posting at [https://lists.openwallet.foundation](https://lists.openwallet.foundation/)
 
 ### General Meetings:
