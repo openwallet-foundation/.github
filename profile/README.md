@@ -19,4 +19,4 @@ Intro text...
 
 
 ### Techical Meetings:
- - Join the mailing list at [lists.openwallet.foundation/g/technical-discuss](https://lists.openwallet.foundation/g/technical-discuss/join)
+ - Join the mailing list at [technical-discuss/join](https://lists.openwallet.foundation/g/technical-discuss/join)
