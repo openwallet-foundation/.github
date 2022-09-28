@@ -8,7 +8,7 @@ Intro text...
 
 ### Mailing List:
  - Join the mailing list at [lists.openwallet.foundation/g/technical-discuss](https://lists.openwallet.foundation/g/technical-discuss/join)
- - View previous mailing list posting at ____
+ - View previous mailing list posting at [https://lists.openwallet.foundation](https://lists.openwallet.foundation/)
 
 ### General Meetings:
 - General meetings are held each ____
