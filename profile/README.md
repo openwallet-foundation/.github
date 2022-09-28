@@ -2,7 +2,9 @@
 
 ## Overview
 
-Intro text... Learn more at [openwallet.foundation](https://openwallet.foundation/)
+The mission of the OWF is to develop an open source engine to enable secure and interoperable multi-purpose wallets anyone can use to build solutions.
+
+Learn more at [openwallet.foundation](https://openwallet.foundation/)
 
 ## Contributing
 
