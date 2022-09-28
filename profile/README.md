@@ -2,7 +2,7 @@
 
 ## Overview
 
-Intro text...
+Intro text... Learn more at [openwallet.foundation](https://openwallet.foundation/)
 
 ## Contributing
 
