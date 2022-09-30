@@ -24,3 +24,4 @@ Learn more at [openwallet.foundation](https://openwallet.foundation/)
 
 ### Techical Meetings:
  - Join the mailing list at [technical-discuss/join](https://lists.openwallet.foundation/g/technical-discuss/join)
+ - [Architecture Task Force Meeting](https://github.com/openwallet-foundation/architecture-task-force/blob/main/meeting-details.md)
