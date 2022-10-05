@@ -22,7 +22,7 @@ Learn more at [openwallet.foundation](https://openwallet.foundation/)
 - Meeting passcode: ____
 
 
-### Techical Meetings:
+### Technical Meetings:
  - Join the mailing list at [technical-discuss/join](https://lists.openwallet.foundation/g/technical-discuss/join)
  - Technical discussions and groupthink happening in [discord](https://discord.gg/x7JPyqbtgz)
  - [Architecture Task Force Meeting](https://github.com/openwallet-foundation/architecture-task-force/blob/main/meeting-details.md)
