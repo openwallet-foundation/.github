@@ -1,28 +1,33 @@
-# Open Wallet Foundation
+![OpenWallet Foundation Logo](https://openwallet.foundation/wp-content/uploads/sites/11/2023/02/OpenWallet_Logo_Color-with-descriptor.svg)
 
-## Overview
+# Overview
 
-The mission of the OWF is to develop an open source engine to enable secure and interoperable multi-purpose wallets anyone can use to build solutions.
+The OWF is a consortium of companies and non-profit organisations collaborating
+to drive global adoption of open, secure and interoperable digital wallet
+solutions as well as providing access to expertise and advice through our
+Government Advisory Council.
 
-The OWF aims to set best practices for digital wallet technology through collaboration on open source code for use as a starting point for anyone who strives to build interoperable, secure and privacy-protecting wallets.
+The OWF aims to set best practices for digital wallet technology through
+collaboration on standards-based OSS components that issuers, wallet providers
+and relying parties can use to bootstrap implementations that preserve user
+choice, security and privacy.
 
 Learn more at [openwallet.foundation](https://openwallet.foundation/)
 
-## Contributing
+# Contributing
 
-### Mailing List:
- - Join the mailing list at [technical-discuss/join](https://lists.openwallet.foundation/g/technical-discuss/join)
- - View previous mailing list posting at [https://lists.openwallet.foundation](https://lists.openwallet.foundation/)
+If you are interested in getting involved with OpenWallet Foundation, please
+consider this your invitation. We welcome contributions and are happy to
+welcome you into the community. Check out the links below for more details and
+please be sure to follow our
+[Linux Foundation Europe Code of Conduct](http://lfeurope.be/policies) when
+participating.
 
-### General Meetings:
-- General meetings are held each ____
-- Meeting agenda, minutes and video links ____
-- Meeting link: _____
-- Meeting id: ____
-- Meeting passcode: ____
+New to Open Source?
+[Here are some guides](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities/)
+that can help you get acquainted with how to work collaboratively in open
+source communities.
 
-
-### Technical Meetings:
- - Join the mailing list at [technical-discuss/join](https://lists.openwallet.foundation/g/technical-discuss/join)
- - Technical discussions and groupthink happening in [discord](https://discord.gg/yjvGPd5FCU)
- - [Architecture Task Force Meeting](https://github.com/openwallet-foundation/architecture-task-force/blob/main/meeting-details.md)
+* [Mailing Lists](https://lists.openwallet.foundation/)
+* [Discord](https://discord.gg/yjvGPd5FCU)
+* [GitHub](https://github.com/openwallet-foundation)
