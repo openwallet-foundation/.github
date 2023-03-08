@@ -31,3 +31,8 @@ source communities.
 * [Mailing Lists](https://lists.openwallet.foundation/)
 * [Discord](https://discord.gg/yjvGPd5FCU)
 * [GitHub](https://github.com/openwallet-foundation)
+
+# Submit a Project Proposal
+
+If you are interested in submitting a project proposal to the OpenWallet
+Foundation, please follow the instructions at [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals).
