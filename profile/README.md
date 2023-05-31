@@ -31,6 +31,8 @@ source communities.
 * [Mailing Lists](https://lists.openwallet.foundation/)
 * [Discord](https://discord.gg/yjvGPd5FCU)
 * [GitHub](https://github.com/openwallet-foundation)
+* [Special Interest Groups](https://openwallet-foundation.github.io/tac/SIGs/)
+* [Task Forces](https://openwallet-foundation.github.io/tac/task-forces/)
 
 # Submit a Project Proposal
 
