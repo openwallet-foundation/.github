@@ -30,7 +30,9 @@ source communities.
 
 * [Mailing Lists](https://lists.openwallet.foundation/)
 * [Discord](https://discord.gg/yjvGPd5FCU)
-* [GitHub](https://github.com/openwallet-foundation)
+* [OpenWallet Foundation GitHub](https://github.com/openwallet-foundation)
+* [OpenWallet Foundation Labs GitHub](https://github.com/openwallet-foundation-labs)
+* [Projects](https://openwallet-foundation.github.io/tac/projects)
 * [Special Interest Groups](https://openwallet-foundation.github.io/tac/SIGs/)
 * [Task Forces](https://openwallet-foundation.github.io/tac/task-forces/)
 
