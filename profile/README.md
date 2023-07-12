@@ -29,7 +29,7 @@ that can help you get acquainted with how to work collaboratively in open
 source communities.
 
 * [Mailing Lists](https://lists.openwallet.foundation/)
-* [Discord](https://discord.gg/yjvGPd5FCU)
+* [Discord](https://discord.gg/openwalletfoundation)
 * [OpenWallet Foundation GitHub](https://github.com/openwallet-foundation)
 * [OpenWallet Foundation Labs GitHub](https://github.com/openwallet-foundation-labs)
 * [Projects](https://openwallet-foundation.github.io/tac/projects)
