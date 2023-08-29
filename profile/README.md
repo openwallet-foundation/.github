@@ -30,11 +30,12 @@ source communities.
 
 * [Mailing Lists](https://lists.openwallet.foundation/)
 * [Discord](https://discord.gg/openwalletfoundation)
+* [Community Calendar](https://calendar.google.com/calendar/u/0?cid=Y181MjdhMWRiNjIxZmU3MDczMzg0MjFhOWM0YzdlZjJmNjE2MGI5NzM4MzhjZmRiYjUwZjBkYjMyYWQwZmQyMGViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 * [OpenWallet Foundation GitHub](https://github.com/openwallet-foundation)
 * [OpenWallet Foundation Labs GitHub](https://github.com/openwallet-foundation-labs)
-* [Projects](https://openwallet-foundation.github.io/tac/projects)
-* [Special Interest Groups](https://openwallet-foundation.github.io/tac/SIGs/)
-* [Task Forces](https://openwallet-foundation.github.io/tac/task-forces/)
+* [Projects](https://tac.openwallet.foundation/projects/)
+* [Special Interest Groups](https://tac.openwallet.foundation/SIGs/)
+* [Task Forces](https://tac.openwallet.foundation/task-forces/)
 
 # Submit a Project Proposal
 
